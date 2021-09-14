@@ -3,10 +3,13 @@
 <h3>關於我</h3>
 
 - 🏫 學歷：靜宜大學 資訊管理學系
-- 💼 工作：靜宜大學 資訊學院 程式設計與資料結構 助教、科技部研究計畫 計畫助理
-- 💻 程式語言：Java, Python, JavaScript, C#
-- 💪 能力：人工智慧 — 影像辨識、網頁前端設計、Unity 3D — 2D 遊戲、自動化軟體
+- 💼 工作：靜宜大學 資訊學院 程式設計與資料結構 教學助教（TA）、科技部研究計畫 計畫助理
+- 💻 程式語言：Java, Python, JavaScript/TypeScript, C#
+- 💪 能力：人工智慧（影像處理）、網頁前端設計、Unity 3D（2D 遊戲）、自動化軟體
 - 🛠 IDE：VSCode, WebStorm, PyCharm, IntelliJ, Rider
+
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=tntrenjin&show_icons=true&locale=en&layout=compact" alt="tntrenjin" />
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=tntrenjin&show_icons=true&locale=en" alt="tntrenjin" />
 
 <h3>經歷</h3>
 
@@ -29,9 +32,3 @@
 8. Discord Bot（Python） — 停更．⛔未開源
 9. Cytus II Editor（Unity 3D） — 停更．⛔未開源．[影片](https://www.youtube.com/watch?v=BnYf3UWLXvA)
 10. VOEZ Editor（Unity 3D） — 停更．⛔未開源．[影片](https://www.youtube.com/watch?v=wbNFuU1uz2I)
-
----
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tntrenjin&show_icons=true&locale=en&layout=compact" alt="tntrenjin" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tntrenjin&show_icons=true&locale=en" alt="tntrenjin" /></p>
